@@ -6,3 +6,13 @@ html {
 h1 {
   color: teal;
 }
+
+.p1 {
+  color: coral;
+}
+
+.p2 {
+
+  color: fuchsia;
+  font-family: poppins;
+}
